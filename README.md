@@ -89,3 +89,12 @@ Resources:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Local development
+
+### Setup
+
+1. Install dependencies:
+```bash
+yarn install
+
